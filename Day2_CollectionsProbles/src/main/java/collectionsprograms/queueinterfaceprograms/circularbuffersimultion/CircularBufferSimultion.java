@@ -1,0 +1,2 @@
+package collectionsprograms.queueinterfaceprograms.circularbuffersimultion;public class CircularBufferSimultion {
+}

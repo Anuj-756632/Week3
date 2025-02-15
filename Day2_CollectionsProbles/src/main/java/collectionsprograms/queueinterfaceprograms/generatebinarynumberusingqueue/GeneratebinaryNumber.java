@@ -1,0 +1,2 @@
+package collectionsprograms.queueinterfaceprograms.generatebinarynumberusingqueue;public class GeneratebinaryNumber {
+}

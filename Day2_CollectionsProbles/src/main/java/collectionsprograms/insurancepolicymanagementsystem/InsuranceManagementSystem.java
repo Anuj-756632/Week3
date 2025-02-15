@@ -1,0 +1,2 @@
+package collectionsprograms.insurancepolicymanagementsystem;public class InsuranceManagementSystem {
+}
