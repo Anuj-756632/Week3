@@ -1,2 +1,0 @@
-package collectionsprograms.advanceinsurancepolicymanagementsystem;public class AdvanceInsuranceManagementSystem {
-}

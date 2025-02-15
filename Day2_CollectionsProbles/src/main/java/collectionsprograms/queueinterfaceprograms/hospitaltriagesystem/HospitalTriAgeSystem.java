@@ -1,2 +1,0 @@
-package collectionsprograms.queueinterfaceprograms.hospitaltriagesystem;public class HospitalTriAgeSystem {
-}

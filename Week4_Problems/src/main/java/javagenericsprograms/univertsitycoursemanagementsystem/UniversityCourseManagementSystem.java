@@ -1,2 +1,0 @@
-package javagenericsprograms.univertsitycoursemanagementsystem;public class UniversityCourseManagementSystem {
-}

@@ -1,2 +1,0 @@
-package collectionsprograms.queueinterfaceprograms.implementstackusingqueue;public class ImplementStackusingQueue {
-}
